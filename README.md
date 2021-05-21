@@ -1,4 +1,14 @@
 ### Hi there 👋
+Am a Software Engineer Based on Python, JavaScript & Dart
+
+## Frameworks
+### Backend 
+Python - Django
+Dart - Flutter
+
+### Frontend
+JavaScript - Vue.js
+
 
 <!--
 **rexy09/rexy09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
