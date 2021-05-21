@@ -3,7 +3,7 @@ Am a Software Engineer Based on Python, JavaScript & Dart
 
 ## Frameworks
 ### Backend 
-Python - Django
+Python :snake: - Django
 Dart - Flutter
 
 ### Frontend
