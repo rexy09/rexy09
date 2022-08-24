@@ -10,9 +10,9 @@ Dart - Flutter
 
 ### Frontend
 JavaScript - Reactjs
-#
+<br/>
 JavaScript - Nextjs
-#
+<br/>
 JavaScript - Vuejs
 
 <!--
