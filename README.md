@@ -1,5 +1,5 @@
 ### Hi there 👋
-Am a Software Engineer Based on Python (Django), JavaScript (Reactjs, Nextjs, Vuejs) & Dart (Flutter)
+I am a Software Engineer Based on Python (Django), JavaScript (Reactjs, Nextjs) & Dart (Flutter)
 
 ## Frameworks
 ### Backend 
@@ -12,8 +12,6 @@ Dart - Flutter
 JavaScript - Reactjs
 <br/>
 JavaScript - Nextjs
-<br/>
-JavaScript - Vuejs
 
 <!--
 **rexy09/rexy09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
