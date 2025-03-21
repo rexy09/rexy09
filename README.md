@@ -4,6 +4,7 @@ I am a Software Engineer Based on Python (Django), JavaScript (Reactjs, Nextjs, 
 ## Frameworks
 ### Backend 
 Python :snake: - Django
+<br/>
 TypeScript - Nodejs Express
 
 ### Mobile Apps 
