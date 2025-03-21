@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Software Engineer Based on Python (Django), JavaScript (Reactjs, Nextjs) & Dart (Flutter)
+I am a Software Engineer Based on Python (Django), JavaScript (Reactjs, Nextjs, Nodejs) & Dart (Flutter)
 
 ## Frameworks
 ### Backend 
